@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Do morning workout",
+      "description": "15 minutes of exercises for energy and health",
+      "dueDateTime": "2025-04-15T07:30:00",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "Finish project report",
+      "description": "Finalize the document and send it to the team by end of day",
+      "dueDateTime": "2025-04-15T18:00:00",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "title": "Call grandma",
+      "description": "Check how she's doing and remind her about the doctor appointment",
+      "dueDateTime": "2025-04-15T20:00:00",
+      "isCompleted": true
+    }
+  ]
+  
